@@ -202,24 +202,9 @@ export DEBUG=true
 java -cp "target/classes;target/dependency/*" p2p.App
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **CryptoJS** for client-side encryption
-- **ZXing** for QR code generation
-- **Next.js** for the frontend framework
-- **Tailwind CSS** for styling
 
 ---
 
